@@ -1,6 +1,7 @@
 # Build dirs
 cmake-build-*
 vcpkg_installed
+build_python
 
 # CMake
 CMakeUserPresets.json
